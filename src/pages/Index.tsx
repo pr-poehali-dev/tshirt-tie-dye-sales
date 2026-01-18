@@ -6,24 +6,24 @@ import Icon from "@/components/ui/icon";
 const products = [
   {
     id: 1,
-    name: "Фиолетовый вихрь",
-    price: 2500,
-    image: "https://cdn.poehali.dev/projects/3df215cf-f34c-48df-bf5e-fa040ece7549/files/783e17a6-c3af-433b-b309-0bf5c0997edc.jpg",
-    colors: ["Фиолетовый", "Розовый", "Оранжевый"]
+    name: "Неоновый взрыв",
+    price: 1500,
+    image: "https://cdn.poehali.dev/projects/3df215cf-f34c-48df-bf5e-fa040ece7549/files/0fb30503-a8ba-451b-a079-3cdaa907881d.jpg",
+    colors: ["Голубой", "Розовый", "Салатовый"]
   },
   {
     id: 2,
-    name: "Радужная спираль",
-    price: 2700,
-    image: "https://cdn.poehali.dev/projects/3df215cf-f34c-48df-bf5e-fa040ece7549/files/d0c5d705-d833-49ae-ad0a-5efcf06a6956.jpg",
-    colors: ["Голубой", "Розовый", "Жёлтый"]
+    name: "Огненный закат",
+    price: 1500,
+    image: "https://cdn.poehali.dev/projects/3df215cf-f34c-48df-bf5e-fa040ece7549/files/e38675dc-1c32-4b1c-82f0-a9bff2b06d81.jpg",
+    colors: ["Оранжевый", "Жёлтый", "Красный"]
   },
   {
     id: 3,
-    name: "Закатный градиент",
-    price: 2600,
-    image: "https://cdn.poehali.dev/projects/3df215cf-f34c-48df-bf5e-fa040ece7549/files/65c7b3d9-7175-4f85-b8b8-d1e029a09999.jpg",
-    colors: ["Оранжевый", "Розовый", "Фиолетовый"]
+    name: "Морская волна",
+    price: 1500,
+    image: "https://cdn.poehali.dev/projects/3df215cf-f34c-48df-bf5e-fa040ece7549/files/d09a0d46-fe0d-4689-b4fd-66469dd1b033.jpg",
+    colors: ["Бирюзовый", "Фиолетовый", "Пурпурный"]
   }
 ];
 
